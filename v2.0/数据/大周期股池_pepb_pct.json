@@ -1,0 +1,2415 @@
+{
+  "update_date": "2026-05-12",
+  "version": "2.0",
+  "windows_available": [
+    "all",
+    "10y",
+    "5y",
+    "3y"
+  ],
+  "total": 55,
+  "stocks": {
+    "601857": {
+      "name": "中国石油",
+      "sector": "石油石化",
+      "windows": {
+        "all": {
+          "pe": 12.95,
+          "pb": 1.26,
+          "pe_pct": 56.08,
+          "pb_pct": 93.68,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 12.95,
+          "pb": 1.26,
+          "pe_pct": 56.08,
+          "pb_pct": 93.68,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 12.95,
+          "pb": 1.26,
+          "pe_pct": 90.26,
+          "pb_pct": 93.89,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 12.95,
+          "pb": 1.26,
+          "pe_pct": 93.78,
+          "pb_pct": 89.78,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 7.0,
+        "pe_trend_before": 55.7,
+        "pb_trend_now": 7.0,
+        "pb_trend_before": 92.7,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "600028": {
+      "name": "中国石化",
+      "sector": "石油石化",
+      "windows": {
+        "all": {
+          "pe": 17.69,
+          "pb": 0.75,
+          "pe_pct": 85.77,
+          "pb_pct": 34.63,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 17.69,
+          "pb": 0.75,
+          "pe_pct": 85.77,
+          "pb_pct": 34.63,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 17.69,
+          "pb": 0.75,
+          "pe_pct": 86.04,
+          "pb_pct": 36.42,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 17.69,
+          "pb": 0.75,
+          "pe_pct": 76.66,
+          "pb_pct": 0.14,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 2.3,
+        "pe_trend_before": 85.8,
+        "pb_trend_now": 2.3,
+        "pb_trend_before": 34.7,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "600938": {
+      "name": "中国海油",
+      "sector": "石油石化",
+      "windows": {
+        "all": {
+          "pe": 13.8,
+          "pb": 2.05,
+          "pe_pct": 94.8,
+          "pb_pct": 91.23,
+          "days": 981
+        },
+        "10y": {
+          "pe": 13.8,
+          "pb": 2.05,
+          "pe_pct": 94.8,
+          "pb_pct": 91.23,
+          "days": 981
+        },
+        "5y": {
+          "pe": 13.8,
+          "pb": 2.05,
+          "pe_pct": 94.8,
+          "pb_pct": 91.23,
+          "days": 981
+        },
+        "3y": {
+          "pe": 13.8,
+          "pb": 2.05,
+          "pe_pct": 92.96,
+          "pb_pct": 88.12,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 2.3,
+        "pe_trend_before": 94.9,
+        "pb_trend_now": 2.3,
+        "pb_trend_before": 91.3,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "600346": {
+      "name": "恒力石化",
+      "sector": "石油石化",
+      "windows": {
+        "all": {
+          "pe": 17.81,
+          "pb": 2.25,
+          "pe_pct": 63.24,
+          "pb_pct": 38.24,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 17.81,
+          "pb": 2.25,
+          "pe_pct": 63.24,
+          "pb_pct": 38.24,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 17.81,
+          "pb": 2.25,
+          "pe_pct": 77.87,
+          "pb_pct": 63.83,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 17.81,
+          "pb": 2.25,
+          "pe_pct": 62.98,
+          "pb_pct": 90.47,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 18.6,
+        "pe_trend_before": 63.1,
+        "pb_trend_now": 41.9,
+        "pb_trend_before": 38.1,
+        "pe_arrow": "↓",
+        "pb_arrow": "→"
+      }
+    },
+    "000301": {
+      "name": "荣盛石化",
+      "sector": "石油石化",
+      "windows": {
+        "all": {
+          "pe": 69.89,
+          "pb": 2.46,
+          "pe_pct": 77.82,
+          "pb_pct": 69.22,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 69.89,
+          "pb": 2.46,
+          "pe_pct": 77.82,
+          "pb_pct": 69.22,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 69.89,
+          "pb": 2.46,
+          "pe_pct": 74.15,
+          "pb_pct": 59.87,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 69.89,
+          "pb": 2.46,
+          "pe_pct": 72.24,
+          "pb_pct": 96.41,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 93.0,
+        "pe_trend_before": 77.7,
+        "pb_trend_now": 90.7,
+        "pb_trend_before": 69.2,
+        "pe_arrow": "↑",
+        "pb_arrow": "↑"
+      }
+    },
+    "601088": {
+      "name": "中国神华",
+      "sector": "煤炭",
+      "windows": {
+        "all": {
+          "pe": 19.01,
+          "pb": 2.04,
+          "pe_pct": 99.16,
+          "pb_pct": 94.27,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 19.01,
+          "pb": 2.04,
+          "pe_pct": 99.16,
+          "pb_pct": 94.27,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 19.01,
+          "pb": 2.04,
+          "pe_pct": 98.6,
+          "pb_pct": 90.42,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 19.01,
+          "pb": 2.04,
+          "pe_pct": 97.65,
+          "pb_pct": 83.98,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 60.5,
+        "pe_trend_before": 99.1,
+        "pb_trend_now": 7.0,
+        "pb_trend_before": 94.2,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "601225": {
+      "name": "陕西煤业",
+      "sector": "煤炭",
+      "windows": {
+        "all": {
+          "pe": 14.26,
+          "pb": 2.26,
+          "pe_pct": 98.02,
+          "pb_pct": 79.3,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 14.26,
+          "pb": 2.26,
+          "pe_pct": 98.02,
+          "pb_pct": 79.3,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 14.26,
+          "pb": 2.26,
+          "pe_pct": 96.7,
+          "pb_pct": 65.73,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 14.26,
+          "pb": 2.26,
+          "pe_pct": 94.48,
+          "pb_pct": 46.13,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 7.0,
+        "pe_trend_before": 98.1,
+        "pb_trend_now": 2.3,
+        "pb_trend_before": 79.6,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "601898": {
+      "name": "中煤能源",
+      "sector": "煤炭",
+      "windows": {
+        "all": {
+          "pe": 12.09,
+          "pb": 1.31,
+          "pe_pct": 64.92,
+          "pb_pct": 97.73,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 12.09,
+          "pb": 1.31,
+          "pe_pct": 64.92,
+          "pb_pct": 97.73,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 12.09,
+          "pb": 1.31,
+          "pe_pct": 95.87,
+          "pb_pct": 96.2,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 12.09,
+          "pb": 1.31,
+          "pe_pct": 93.65,
+          "pb_pct": 93.65,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 4.7,
+        "pe_trend_before": 65.7,
+        "pb_trend_now": 4.7,
+        "pb_trend_before": 97.8,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "600188": {
+      "name": "兖矿能源",
+      "sector": "煤炭",
+      "windows": {
+        "all": {
+          "pe": 22.11,
+          "pb": 2.76,
+          "pe_pct": 98.57,
+          "pb_pct": 83.3,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 22.11,
+          "pb": 2.76,
+          "pe_pct": 98.57,
+          "pb_pct": 83.3,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 22.11,
+          "pb": 2.76,
+          "pe_pct": 97.61,
+          "pb_pct": 72.09,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 22.11,
+          "pb": 2.76,
+          "pe_pct": 95.99,
+          "pb_pct": 68.78,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 32.6,
+        "pe_trend_before": 98.7,
+        "pb_trend_now": 51.2,
+        "pb_trend_before": 85.1,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "000983": {
+      "name": "山西焦煤",
+      "sector": "煤炭",
+      "windows": {
+        "all": {
+          "pe": 29.25,
+          "pb": 1.05,
+          "pe_pct": 99.7,
+          "pb_pct": 33.3,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 29.25,
+          "pb": 1.05,
+          "pe_pct": 99.7,
+          "pb_pct": 33.3,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 29.25,
+          "pb": 1.05,
+          "pe_pct": 99.5,
+          "pb_pct": 10.57,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 29.25,
+          "pb": 1.05,
+          "pe_pct": 99.17,
+          "pb_pct": 17.68,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 86.0,
+        "pe_trend_before": 99.8,
+        "pb_trend_now": 48.8,
+        "pb_trend_before": 35.2,
+        "pe_arrow": "↓",
+        "pb_arrow": "↑"
+      }
+    },
+    "600985": {
+      "name": "淮北矿业",
+      "sector": "煤炭",
+      "windows": {
+        "all": {
+          "pe": 27.93,
+          "pb": 0.87,
+          "pe_pct": 86.41,
+          "pb_pct": 14.28,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 27.93,
+          "pb": 0.87,
+          "pe_pct": 86.41,
+          "pb_pct": 14.28,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 27.93,
+          "pb": 0.87,
+          "pe_pct": 99.59,
+          "pb_pct": 23.37,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 27.93,
+          "pb": 0.87,
+          "pe_pct": 99.31,
+          "pb_pct": 39.09,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 88.4,
+        "pe_trend_before": 86.6,
+        "pb_trend_now": 23.3,
+        "pb_trend_before": 15.3,
+        "pe_arrow": "→",
+        "pb_arrow": "↑"
+      }
+    },
+    "601899": {
+      "name": "紫金矿业",
+      "sector": "有色金属",
+      "windows": {
+        "all": {
+          "pe": 14.91,
+          "pb": 4.66,
+          "pe_pct": 19.57,
+          "pb_pct": 86.96,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 14.91,
+          "pb": 4.66,
+          "pe_pct": 19.57,
+          "pb_pct": 86.96,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 14.91,
+          "pb": 4.66,
+          "pe_pct": 31.87,
+          "pb_pct": 86.29,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 14.91,
+          "pb": 4.66,
+          "pe_pct": 24.45,
+          "pb_pct": 82.6,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 23.3,
+        "pe_trend_before": 17.9,
+        "pb_trend_now": 51.2,
+        "pb_trend_before": 86.0,
+        "pe_arrow": "↑",
+        "pb_arrow": "↓"
+      }
+    },
+    "600547": {
+      "name": "山东黄金",
+      "sector": "有色金属",
+      "windows": {
+        "all": {
+          "pe": 31.12,
+          "pb": 5.02,
+          "pe_pct": 7.66,
+          "pb_pct": 77.08,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 31.12,
+          "pb": 5.02,
+          "pe_pct": 7.66,
+          "pb_pct": 77.08,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 31.12,
+          "pb": 5.02,
+          "pe_pct": 12.8,
+          "pb_pct": 67.63,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 31.12,
+          "pb": 5.02,
+          "pe_pct": 0.28,
+          "pb_pct": 47.1,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 4.7,
+        "pe_trend_before": 7.7,
+        "pb_trend_now": 7.0,
+        "pb_trend_before": 78.4,
+        "pe_arrow": "→",
+        "pb_arrow": "↓"
+      }
+    },
+    "600362": {
+      "name": "江西铜业",
+      "sector": "有色金属",
+      "windows": {
+        "all": {
+          "pe": 21.28,
+          "pb": 2.02,
+          "pe_pct": 61.71,
+          "pb_pct": 97.48,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 21.28,
+          "pb": 2.02,
+          "pe_pct": 61.71,
+          "pb_pct": 97.48,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 21.28,
+          "pb": 2.02,
+          "pe_pct": 88.11,
+          "pb_pct": 95.79,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 21.28,
+          "pb": 2.02,
+          "pe_pct": 91.16,
+          "pb_pct": 92.96,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 46.5,
+        "pe_trend_before": 59.9,
+        "pb_trend_now": 81.4,
+        "pb_trend_before": 97.4,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "601600": {
+      "name": "中国铝业",
+      "sector": "有色金属",
+      "windows": {
+        "all": {
+          "pe": 13.66,
+          "pb": 2.48,
+          "pe_pct": 17.29,
+          "pb_pct": 92.34,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 13.66,
+          "pb": 2.48,
+          "pe_pct": 17.29,
+          "pb_pct": 92.34,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 13.66,
+          "pb": 2.48,
+          "pe_pct": 28.9,
+          "pb_pct": 90.17,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 13.66,
+          "pb": 2.48,
+          "pe_pct": 41.99,
+          "pb_pct": 86.05,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 14.0,
+        "pe_trend_before": 17.9,
+        "pb_trend_now": 18.6,
+        "pb_trend_before": 92.5,
+        "pe_arrow": "→",
+        "pb_arrow": "↓"
+      }
+    },
+    "603993": {
+      "name": "洛阳钼业",
+      "sector": "有色金属",
+      "windows": {
+        "all": {
+          "pe": 18.23,
+          "pb": 4.95,
+          "pe_pct": 28.21,
+          "pb_pct": 96.49,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 18.23,
+          "pb": 4.95,
+          "pe_pct": 28.21,
+          "pb_pct": 96.49,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 18.23,
+          "pb": 4.95,
+          "pe_pct": 39.72,
+          "pb_pct": 95.13,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 18.23,
+          "pb": 4.95,
+          "pe_pct": 47.65,
+          "pb_pct": 91.85,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 25.6,
+        "pe_trend_before": 26.4,
+        "pb_trend_now": 81.4,
+        "pb_trend_before": 95.5,
+        "pe_arrow": "→",
+        "pb_arrow": "↓"
+      }
+    },
+    "002466": {
+      "name": "天齐锂业",
+      "sector": "有色金属",
+      "windows": {
+        "all": {
+          "pe": 57.27,
+          "pb": 2.76,
+          "pe_pct": 96.74,
+          "pb_pct": 39.72,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 57.27,
+          "pb": 2.76,
+          "pe_pct": 96.74,
+          "pb_pct": 39.72,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 57.27,
+          "pb": 2.76,
+          "pe_pct": 97.85,
+          "pb_pct": 63.42,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 57.27,
+          "pb": 2.76,
+          "pe_pct": 96.41,
+          "pb_pct": 99.17,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 39.5,
+        "pe_trend_before": 96.9,
+        "pb_trend_now": 86.0,
+        "pb_trend_before": 41.0,
+        "pe_arrow": "↓",
+        "pb_arrow": "↑"
+      }
+    },
+    "002460": {
+      "name": "赣锋锂业",
+      "sector": "有色金属",
+      "windows": {
+        "all": {
+          "pe": 46.08,
+          "pb": 3.78,
+          "pe_pct": 69.42,
+          "pb_pct": 43.33,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 46.08,
+          "pb": 3.78,
+          "pe_pct": 69.42,
+          "pb_pct": 43.33,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 46.08,
+          "pb": 3.78,
+          "pe_pct": 80.92,
+          "pb_pct": 66.23,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 46.08,
+          "pb": 3.78,
+          "pe_pct": 96.41,
+          "pb_pct": 98.2,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 39.5,
+        "pe_trend_before": 69.5,
+        "pb_trend_now": 69.8,
+        "pb_trend_before": 45.0,
+        "pe_arrow": "↓",
+        "pb_arrow": "↑"
+      }
+    },
+    "600111": {
+      "name": "北方稀土",
+      "sector": "有色金属",
+      "windows": {
+        "all": {
+          "pe": 71.87,
+          "pb": 7.69,
+          "pe_pct": 64.92,
+          "pb_pct": 87.25,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 71.87,
+          "pb": 7.69,
+          "pe_pct": 64.92,
+          "pb_pct": 87.25,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 71.87,
+          "pb": 7.69,
+          "pe_pct": 78.2,
+          "pb_pct": 79.36,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 71.87,
+          "pb": 7.69,
+          "pe_pct": 70.58,
+          "pb_pct": 92.82,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 7.0,
+        "pe_trend_before": 70.4,
+        "pb_trend_now": 86.0,
+        "pb_trend_before": 89.7,
+        "pe_arrow": "↓",
+        "pb_arrow": "→"
+      }
+    },
+    "600019": {
+      "name": "宝钢股份",
+      "sector": "钢铁",
+      "windows": {
+        "all": {
+          "pe": 13.82,
+          "pb": 0.67,
+          "pe_pct": 75.15,
+          "pb_pct": 19.66,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 13.82,
+          "pb": 0.67,
+          "pe_pct": 75.15,
+          "pb_pct": 19.66,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 13.82,
+          "pb": 0.67,
+          "pe_pct": 65.73,
+          "pb_pct": 18.66,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 13.82,
+          "pb": 0.67,
+          "pe_pct": 43.78,
+          "pb_pct": 15.06,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 11.6,
+        "pe_trend_before": 75.6,
+        "pb_trend_now": 51.2,
+        "pb_trend_before": 22.2,
+        "pe_arrow": "↓",
+        "pb_arrow": "↑"
+      }
+    },
+    "000708": {
+      "name": "中信特钢",
+      "sector": "钢铁",
+      "windows": {
+        "all": {
+          "pe": 12.93,
+          "pb": 1.76,
+          "pe_pct": 56.32,
+          "pb_pct": 36.81,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 12.93,
+          "pb": 1.76,
+          "pe_pct": 56.32,
+          "pb_pct": 36.81,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 12.93,
+          "pb": 1.76,
+          "pe_pct": 64.82,
+          "pb_pct": 27.09,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 12.93,
+          "pb": 1.76,
+          "pe_pct": 70.58,
+          "pb_pct": 45.3,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 18.6,
+        "pe_trend_before": 57.2,
+        "pb_trend_now": 18.6,
+        "pb_trend_before": 37.1,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "600282": {
+      "name": "南钢股份",
+      "sector": "钢铁",
+      "windows": {
+        "all": {
+          "pe": 11.26,
+          "pb": 1.15,
+          "pe_pct": 66.3,
+          "pb_pct": 76.53,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 11.26,
+          "pb": 1.15,
+          "pe_pct": 66.3,
+          "pb_pct": 76.53,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 11.26,
+          "pb": 1.15,
+          "pe_pct": 43.85,
+          "pb_pct": 83.32,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 11.26,
+          "pb": 1.15,
+          "pe_pct": 7.18,
+          "pb_pct": 73.48,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 16.3,
+        "pe_trend_before": 65.9,
+        "pb_trend_now": 11.6,
+        "pb_trend_before": 75.0,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "000932": {
+      "name": "华菱钢铁",
+      "sector": "钢铁",
+      "windows": {
+        "all": {
+          "pe": 14.25,
+          "pb": 0.57,
+          "pe_pct": 90.46,
+          "pb_pct": 5.04,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 14.25,
+          "pb": 0.57,
+          "pe_pct": 90.46,
+          "pb_pct": 5.04,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 14.25,
+          "pb": 0.57,
+          "pe_pct": 84.06,
+          "pb_pct": 8.42,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 14.25,
+          "pb": 0.57,
+          "pe_pct": 73.34,
+          "pb_pct": 13.81,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 76.7,
+        "pe_trend_before": 90.8,
+        "pb_trend_now": 7.0,
+        "pb_trend_before": 5.9,
+        "pe_arrow": "↓",
+        "pb_arrow": "→"
+      }
+    },
+    "600782": {
+      "name": "新钢股份",
+      "sector": "钢铁",
+      "windows": {
+        "all": {
+          "pe": -14.36,
+          "pb": 0.39,
+          "pe_pct": 13.88,
+          "pb_pct": 2.72,
+          "days": 2024
+        },
+        "10y": {
+          "pe": -14.36,
+          "pb": 0.39,
+          "pe_pct": 13.88,
+          "pb_pct": 2.72,
+          "days": 2024
+        },
+        "5y": {
+          "pe": -14.36,
+          "pb": 0.39,
+          "pe_pct": 23.2,
+          "pb_pct": 4.54,
+          "days": 1211
+        },
+        "3y": {
+          "pe": -14.36,
+          "pb": 0.39,
+          "pe_pct": 38.81,
+          "pb_pct": 7.6,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 20.9,
+        "pe_trend_before": 13.8,
+        "pb_trend_now": 11.6,
+        "pb_trend_before": 3.3,
+        "pe_arrow": "↑",
+        "pb_arrow": "↑"
+      }
+    },
+    "600309": {
+      "name": "万华化学",
+      "sector": "化工",
+      "windows": {
+        "all": {
+          "pe": 19.81,
+          "pb": 2.34,
+          "pe_pct": 72.48,
+          "pb_pct": 13.29,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 19.81,
+          "pb": 2.34,
+          "pe_pct": 72.48,
+          "pb_pct": 13.29,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 19.81,
+          "pb": 2.34,
+          "pe_pct": 82.99,
+          "pb_pct": 21.72,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 19.81,
+          "pb": 2.34,
+          "pe_pct": 81.49,
+          "pb_pct": 36.33,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 16.3,
+        "pe_trend_before": 73.1,
+        "pb_trend_now": 37.2,
+        "pb_trend_before": 13.3,
+        "pe_arrow": "↓",
+        "pb_arrow": "↑"
+      }
+    },
+    "600096": {
+      "name": "云天化",
+      "sector": "化工",
+      "windows": {
+        "all": {
+          "pe": 11.78,
+          "pb": 2.39,
+          "pe_pct": 50.74,
+          "pb_pct": 70.31,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 11.78,
+          "pb": 2.39,
+          "pe_pct": 50.74,
+          "pb_pct": 70.31,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 11.78,
+          "pb": 2.39,
+          "pe_pct": 77.37,
+          "pb_pct": 57.64,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 11.78,
+          "pb": 2.39,
+          "pe_pct": 92.4,
+          "pb_pct": 88.95,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 16.3,
+        "pe_trend_before": 52.9,
+        "pb_trend_now": 39.5,
+        "pb_trend_before": 72.2,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "600989": {
+      "name": "宝丰能源",
+      "sector": "化工",
+      "windows": {
+        "all": {
+          "pe": 16.41,
+          "pb": 3.96,
+          "pe_pct": 30.17,
+          "pb_pct": 83.06,
+          "days": 1694
+        },
+        "10y": {
+          "pe": 16.41,
+          "pb": 3.96,
+          "pe_pct": 30.17,
+          "pb_pct": 83.06,
+          "days": 1694
+        },
+        "5y": {
+          "pe": 16.41,
+          "pb": 3.96,
+          "pe_pct": 39.64,
+          "pb_pct": 86.21,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 16.41,
+          "pb": 3.96,
+          "pe_pct": 32.6,
+          "pb_pct": 94.2,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 7.0,
+        "pe_trend_before": 31.8,
+        "pb_trend_now": 14.0,
+        "pb_trend_before": 83.8,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "002648": {
+      "name": "卫星化学",
+      "sector": "化工",
+      "windows": {
+        "all": {
+          "pe": 15.89,
+          "pb": 2.63,
+          "pe_pct": 69.07,
+          "pb_pct": 75.3,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 15.89,
+          "pb": 2.63,
+          "pe_pct": 69.07,
+          "pb_pct": 75.3,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 15.89,
+          "pb": 2.63,
+          "pe_pct": 77.54,
+          "pb_pct": 70.27,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 15.89,
+          "pb": 2.63,
+          "pe_pct": 78.73,
+          "pb_pct": 96.69,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 44.2,
+        "pe_trend_before": 66.0,
+        "pb_trend_now": 46.5,
+        "pb_trend_before": 73.2,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "002601": {
+      "name": "龙佰集团",
+      "sector": "化工",
+      "windows": {
+        "all": {
+          "pe": 56.13,
+          "pb": 1.83,
+          "pe_pct": 100.0,
+          "pb_pct": 18.03,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 56.13,
+          "pb": 1.83,
+          "pe_pct": 100.0,
+          "pb_pct": 18.03,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 56.13,
+          "pb": 1.83,
+          "pe_pct": 100.0,
+          "pb_pct": 27.5,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 56.13,
+          "pb": 1.83,
+          "pe_pct": 100.0,
+          "pb_pct": 44.2,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 100.0,
+        "pe_trend_before": 100.0,
+        "pb_trend_now": 41.9,
+        "pb_trend_before": 10.5,
+        "pe_arrow": "→",
+        "pb_arrow": "↑"
+      }
+    },
+    "600141": {
+      "name": "兴发集团",
+      "sector": "化工",
+      "windows": {
+        "all": {
+          "pe": 28.19,
+          "pb": 1.62,
+          "pe_pct": 75.49,
+          "pb_pct": 68.97,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 28.19,
+          "pb": 1.62,
+          "pe_pct": 75.49,
+          "pb_pct": 68.97,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 28.19,
+          "pb": 1.62,
+          "pe_pct": 95.79,
+          "pb_pct": 55.24,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 28.19,
+          "pb": 1.62,
+          "pe_pct": 96.69,
+          "pb_pct": 88.26,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 88.4,
+        "pe_trend_before": 74.5,
+        "pb_trend_now": 62.8,
+        "pb_trend_before": 67.7,
+        "pe_arrow": "↑",
+        "pb_arrow": "→"
+      }
+    },
+    "600585": {
+      "name": "海螺水泥",
+      "sector": "建材",
+      "windows": {
+        "all": {
+          "pe": 14.59,
+          "pb": 0.58,
+          "pe_pct": 85.38,
+          "pb_pct": 0.79,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 14.59,
+          "pb": 0.58,
+          "pe_pct": 85.38,
+          "pb_pct": 0.79,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 14.59,
+          "pb": 0.58,
+          "pe_pct": 76.47,
+          "pb_pct": 1.32,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 14.59,
+          "pb": 0.58,
+          "pe_pct": 60.64,
+          "pb_pct": 2.21,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 44.2,
+        "pe_trend_before": 85.6,
+        "pb_trend_now": 18.6,
+        "pb_trend_before": 0.8,
+        "pe_arrow": "↓",
+        "pb_arrow": "↑"
+      }
+    },
+    "600176": {
+      "name": "中国巨石",
+      "sector": "建材",
+      "windows": {
+        "all": {
+          "pe": 39.61,
+          "pb": 4.69,
+          "pe_pct": 97.63,
+          "pb_pct": 98.86,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 39.61,
+          "pb": 4.69,
+          "pe_pct": 97.63,
+          "pb_pct": 98.86,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 39.61,
+          "pb": 4.69,
+          "pe_pct": 99.42,
+          "pb_pct": 99.75,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 39.61,
+          "pb": 4.69,
+          "pe_pct": 99.03,
+          "pb_pct": 99.59,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 83.7,
+        "pe_trend_before": 97.8,
+        "pb_trend_now": 93.0,
+        "pb_trend_before": 99.1,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "000786": {
+      "name": "北新建材",
+      "sector": "建材",
+      "windows": {
+        "all": {
+          "pe": 15.95,
+          "pb": 1.64,
+          "pe_pct": 68.82,
+          "pb_pct": 5.98,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 15.95,
+          "pb": 1.64,
+          "pe_pct": 68.82,
+          "pb_pct": 5.98,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 15.95,
+          "pb": 1.64,
+          "pe_pct": 89.02,
+          "pb_pct": 9.83,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 15.95,
+          "pb": 1.64,
+          "pe_pct": 99.03,
+          "pb_pct": 16.44,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 100.0,
+        "pe_trend_before": 67.6,
+        "pb_trend_now": 83.7,
+        "pb_trend_before": 5.4,
+        "pe_arrow": "↑",
+        "pb_arrow": "↑"
+      }
+    },
+    "600801": {
+      "name": "华新水泥",
+      "sector": "建材",
+      "windows": {
+        "all": {
+          "pe": 13.68,
+          "pb": 1.35,
+          "pe_pct": 90.66,
+          "pb_pct": 37.5,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 13.68,
+          "pb": 1.35,
+          "pe_pct": 90.66,
+          "pb_pct": 37.5,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 13.68,
+          "pb": 1.35,
+          "pe_pct": 87.37,
+          "pb_pct": 62.68,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 13.68,
+          "pb": 1.35,
+          "pe_pct": 78.87,
+          "pb_pct": 83.15,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 27.9,
+        "pe_trend_before": 87.5,
+        "pb_trend_now": 25.6,
+        "pb_trend_before": 35.9,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "002271": {
+      "name": "东方雨虹",
+      "sector": "建材",
+      "windows": {
+        "all": {
+          "pe": 125.82,
+          "pb": 1.98,
+          "pe_pct": 97.97,
+          "pb_pct": 28.16,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 125.82,
+          "pb": 1.98,
+          "pe_pct": 97.97,
+          "pb_pct": 28.16,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 125.82,
+          "pb": 1.98,
+          "pe_pct": 96.61,
+          "pb_pct": 47.07,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 125.82,
+          "pb": 1.98,
+          "pe_pct": 94.34,
+          "pb_pct": 78.73,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 100.0,
+        "pe_trend_before": 98.0,
+        "pb_trend_now": 95.3,
+        "pb_trend_before": 27.9,
+        "pe_arrow": "→",
+        "pb_arrow": "↑"
+      }
+    },
+    "600031": {
+      "name": "三一重工",
+      "sector": "工程机械",
+      "windows": {
+        "all": {
+          "pe": 23.33,
+          "pb": 2.17,
+          "pe_pct": 53.56,
+          "pb_pct": 32.76,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 23.33,
+          "pb": 2.17,
+          "pe_pct": 53.56,
+          "pb_pct": 32.76,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 23.33,
+          "pb": 2.17,
+          "pe_pct": 35.76,
+          "pb_pct": 49.88,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 23.33,
+          "pb": 2.17,
+          "pe_pct": 15.61,
+          "pb_pct": 66.99,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 86.0,
+        "pe_trend_before": 57.8,
+        "pb_trend_now": 83.7,
+        "pb_trend_before": 37.7,
+        "pe_arrow": "↑",
+        "pb_arrow": "↑"
+      }
+    },
+    "000157": {
+      "name": "中联重科",
+      "sector": "工程机械",
+      "windows": {
+        "all": {
+          "pe": 15.65,
+          "pb": 1.16,
+          "pe_pct": 39.72,
+          "pb_pct": 59.68,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 15.65,
+          "pb": 1.16,
+          "pe_pct": 39.72,
+          "pb_pct": 59.68,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 15.65,
+          "pb": 1.16,
+          "pe_pct": 34.43,
+          "pb_pct": 68.04,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 15.65,
+          "pb": 1.16,
+          "pe_pct": 11.74,
+          "pb_pct": 63.12,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 46.5,
+        "pe_trend_before": 49.9,
+        "pb_trend_now": 4.7,
+        "pb_trend_before": 67.5,
+        "pe_arrow": "→",
+        "pb_arrow": "↓"
+      }
+    },
+    "000425": {
+      "name": "徐工机械",
+      "sector": "工程机械",
+      "windows": {
+        "all": {
+          "pe": 18.61,
+          "pb": 1.96,
+          "pe_pct": 74.8,
+          "pb_pct": 93.68,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 18.61,
+          "pb": 1.96,
+          "pe_pct": 74.8,
+          "pb_pct": 93.68,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 18.61,
+          "pb": 1.96,
+          "pe_pct": 77.29,
+          "pb_pct": 89.43,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 18.61,
+          "pb": 1.96,
+          "pe_pct": 72.93,
+          "pb_pct": 82.32,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 65.1,
+        "pe_trend_before": 80.6,
+        "pb_trend_now": 53.5,
+        "pb_trend_before": 95.4,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "601100": {
+      "name": "恒立液压",
+      "sector": "工程机械",
+      "windows": {
+        "all": {
+          "pe": 54.48,
+          "pb": 8.43,
+          "pe_pct": 85.38,
+          "pb_pct": 72.33,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 54.48,
+          "pb": 8.43,
+          "pe_pct": 85.38,
+          "pb_pct": 72.33,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 54.48,
+          "pb": 8.43,
+          "pe_pct": 97.52,
+          "pb_pct": 78.36,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 54.48,
+          "pb": 8.43,
+          "pe_pct": 96.13,
+          "pb_pct": 92.54,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 88.4,
+        "pe_trend_before": 86.2,
+        "pb_trend_now": 83.7,
+        "pb_trend_before": 73.4,
+        "pe_arrow": "→",
+        "pb_arrow": "↑"
+      }
+    },
+    "603338": {
+      "name": "浙江鼎力",
+      "sector": "工程机械",
+      "windows": {
+        "all": {
+          "pe": 14.88,
+          "pb": 2.42,
+          "pe_pct": 15.37,
+          "pb_pct": 7.11,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 14.88,
+          "pb": 2.42,
+          "pe_pct": 15.37,
+          "pb_pct": 7.11,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 14.88,
+          "pb": 2.42,
+          "pe_pct": 25.68,
+          "pb_pct": 11.89,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 14.88,
+          "pb": 2.42,
+          "pe_pct": 42.96,
+          "pb_pct": 19.89,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 72.1,
+        "pe_trend_before": 17.1,
+        "pb_trend_now": 88.4,
+        "pb_trend_before": 8.0,
+        "pe_arrow": "↑",
+        "pb_arrow": "↑"
+      }
+    },
+    "601919": {
+      "name": "中远海控",
+      "sector": "航运港口",
+      "windows": {
+        "all": {
+          "pe": 8.61,
+          "pb": 0.92,
+          "pe_pct": 55.63,
+          "pb_pct": 19.42,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 8.61,
+          "pb": 0.92,
+          "pe_pct": 55.63,
+          "pb_pct": 19.42,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 8.61,
+          "pb": 0.92,
+          "pe_pct": 86.13,
+          "pb_pct": 32.45,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 8.61,
+          "pb": 0.92,
+          "pe_pct": 87.57,
+          "pb_pct": 35.64,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 95.3,
+        "pe_trend_before": 55.5,
+        "pb_trend_now": 9.3,
+        "pb_trend_before": 19.2,
+        "pe_arrow": "↑",
+        "pb_arrow": "↓"
+      }
+    },
+    "601872": {
+      "name": "招商轮船",
+      "sector": "航运港口",
+      "windows": {
+        "all": {
+          "pe": 18.16,
+          "pb": 3.19,
+          "pe_pct": 59.68,
+          "pb_pct": 98.47,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 18.16,
+          "pb": 3.19,
+          "pe_pct": 59.68,
+          "pb_pct": 98.47,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 18.16,
+          "pb": 3.19,
+          "pe_pct": 80.1,
+          "pb_pct": 97.44,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 18.16,
+          "pb": 3.19,
+          "pe_pct": 91.71,
+          "pb_pct": 95.72,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 11.6,
+        "pe_trend_before": 61.5,
+        "pb_trend_now": 39.5,
+        "pb_trend_before": 99.0,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "601866": {
+      "name": "中远海发",
+      "sector": "航运港口",
+      "windows": {
+        "all": {
+          "pe": 22.85,
+          "pb": 1.13,
+          "pe_pct": 77.57,
+          "pb_pct": 22.13,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 22.85,
+          "pb": 1.13,
+          "pe_pct": 77.57,
+          "pb_pct": 22.13,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 22.85,
+          "pb": 1.13,
+          "pe_pct": 84.64,
+          "pb_pct": 36.99,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 22.85,
+          "pb": 1.13,
+          "pe_pct": 74.31,
+          "pb_pct": 61.33,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 74.4,
+        "pe_trend_before": 78.9,
+        "pb_trend_now": 11.6,
+        "pb_trend_before": 25.1,
+        "pe_arrow": "→",
+        "pb_arrow": "↓"
+      }
+    },
+    "600026": {
+      "name": "中远海能",
+      "sector": "航运港口",
+      "windows": {
+        "all": {
+          "pe": 22.0,
+          "pb": 2.51,
+          "pe_pct": 60.47,
+          "pb_pct": 95.31,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 22.0,
+          "pb": 2.51,
+          "pe_pct": 60.47,
+          "pb_pct": 95.31,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 22.0,
+          "pb": 2.51,
+          "pe_pct": 78.61,
+          "pb_pct": 92.16,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 22.0,
+          "pb": 2.51,
+          "pe_pct": 73.07,
+          "pb_pct": 94.89,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 9.3,
+        "pe_trend_before": 60.9,
+        "pb_trend_now": 25.6,
+        "pb_trend_before": 95.5,
+        "pe_arrow": "↓",
+        "pb_arrow": "↓"
+      }
+    },
+    "000039": {
+      "name": "中集集团",
+      "sector": "航运港口",
+      "windows": {
+        "all": {
+          "pe": -607.27,
+          "pb": 1.48,
+          "pe_pct": 0.2,
+          "pb_pct": 90.27,
+          "days": 2024
+        },
+        "10y": {
+          "pe": -607.27,
+          "pb": 1.48,
+          "pe_pct": 0.2,
+          "pb_pct": 90.27,
+          "days": 2024
+        },
+        "5y": {
+          "pe": -607.27,
+          "pb": 1.48,
+          "pe_pct": 0.33,
+          "pb_pct": 95.54,
+          "days": 1211
+        },
+        "3y": {
+          "pe": -607.27,
+          "pb": 1.48,
+          "pe_pct": 0.55,
+          "pb_pct": 98.2,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 9.3,
+        "pe_trend_before": 0.1,
+        "pb_trend_now": 83.7,
+        "pb_trend_before": 92.9,
+        "pe_arrow": "↑",
+        "pb_arrow": "↓"
+      }
+    },
+    "600036": {
+      "name": "招商银行",
+      "sector": "金融",
+      "windows": {
+        "all": {
+          "pe": 6.34,
+          "pb": 0.84,
+          "pe_pct": 20.36,
+          "pb_pct": 3.75,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 6.34,
+          "pb": 0.84,
+          "pe_pct": 20.36,
+          "pb_pct": 3.75,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 6.34,
+          "pb": 0.84,
+          "pe_pct": 34.02,
+          "pb_pct": 6.28,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 6.34,
+          "pb": 0.84,
+          "pe_pct": 47.38,
+          "pb_pct": 10.5,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 2.3,
+        "pe_trend_before": 20.6,
+        "pb_trend_now": 2.3,
+        "pb_trend_before": 4.0,
+        "pe_arrow": "↓",
+        "pb_arrow": "→"
+      }
+    },
+    "601398": {
+      "name": "工商银行",
+      "sector": "金融",
+      "windows": {
+        "all": {
+          "pe": 7.18,
+          "pb": 0.68,
+          "pe_pct": 87.3,
+          "pb_pct": 49.26,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 7.18,
+          "pb": 0.68,
+          "pe_pct": 87.3,
+          "pb_pct": 49.26,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 7.18,
+          "pb": 0.68,
+          "pe_pct": 86.62,
+          "pb_pct": 80.76,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 7.18,
+          "pb": 0.68,
+          "pe_pct": 77.62,
+          "pb_pct": 69.75,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 46.5,
+        "pe_trend_before": 87.3,
+        "pb_trend_now": 53.5,
+        "pb_trend_before": 48.9,
+        "pe_arrow": "↓",
+        "pb_arrow": "→"
+      }
+    },
+    "601318": {
+      "name": "中国平安",
+      "sector": "金融",
+      "windows": {
+        "all": {
+          "pe": 8.1,
+          "pb": 1.06,
+          "pe_pct": 20.06,
+          "pb_pct": 35.72,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 8.1,
+          "pb": 1.06,
+          "pe_pct": 20.06,
+          "pb_pct": 35.72,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 8.1,
+          "pb": 1.06,
+          "pe_pct": 33.53,
+          "pb_pct": 59.7,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 8.1,
+          "pb": 1.06,
+          "pe_pct": 21.27,
+          "pb_pct": 66.16,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 90.7,
+        "pe_trend_before": 21.1,
+        "pb_trend_now": 62.8,
+        "pb_trend_before": 38.3,
+        "pe_arrow": "↑",
+        "pb_arrow": "↑"
+      }
+    },
+    "600030": {
+      "name": "中信证券",
+      "sector": "金融",
+      "windows": {
+        "all": {
+          "pe": 11.98,
+          "pb": 1.38,
+          "pe_pct": 1.88,
+          "pb_pct": 37.4,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 11.98,
+          "pb": 1.38,
+          "pe_pct": 1.88,
+          "pb_pct": 37.4,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 11.98,
+          "pb": 1.38,
+          "pe_pct": 3.14,
+          "pb_pct": 51.45,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 11.98,
+          "pb": 1.38,
+          "pe_pct": 3.18,
+          "pb_pct": 49.72,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 53.5,
+        "pe_trend_before": 2.3,
+        "pb_trend_now": 88.4,
+        "pb_trend_before": 38.2,
+        "pe_arrow": "↑",
+        "pb_arrow": "↑"
+      }
+    },
+    "300059": {
+      "name": "东方财富",
+      "sector": "金融",
+      "windows": {
+        "all": {
+          "pe": 25.65,
+          "pb": 3.52,
+          "pe_pct": 9.14,
+          "pb_pct": 16.06,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 25.65,
+          "pb": 3.52,
+          "pe_pct": 9.14,
+          "pb_pct": 16.06,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 25.65,
+          "pb": 3.52,
+          "pe_pct": 15.28,
+          "pb_pct": 26.84,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 25.65,
+          "pb": 3.52,
+          "pe_pct": 22.24,
+          "pb_pct": 43.78,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 44.2,
+        "pe_trend_before": 9.1,
+        "pb_trend_now": 76.7,
+        "pb_trend_before": 16.1,
+        "pe_arrow": "↑",
+        "pb_arrow": "↑"
+      }
+    },
+    "002714": {
+      "name": "牧原股份",
+      "sector": "农牧",
+      "windows": {
+        "all": {
+          "pe": 25.34,
+          "pb": 2.87,
+          "pe_pct": 74.51,
+          "pb_pct": 3.06,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 25.34,
+          "pb": 2.87,
+          "pe_pct": 74.51,
+          "pb_pct": 3.06,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 25.34,
+          "pb": 2.87,
+          "pe_pct": 94.3,
+          "pb_pct": 5.12,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 25.34,
+          "pb": 2.87,
+          "pe_pct": 90.47,
+          "pb_pct": 8.56,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 76.7,
+        "pe_trend_before": 75.9,
+        "pb_trend_now": 11.6,
+        "pb_trend_before": 5.5,
+        "pe_arrow": "→",
+        "pb_arrow": "↑"
+      }
+    },
+    "002311": {
+      "name": "海大集团",
+      "sector": "农牧",
+      "windows": {
+        "all": {
+          "pe": 19.44,
+          "pb": 2.97,
+          "pe_pct": 14.62,
+          "pb_pct": 0.35,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 19.44,
+          "pb": 2.97,
+          "pe_pct": 14.62,
+          "pb_pct": 0.35,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 19.44,
+          "pb": 2.97,
+          "pe_pct": 24.44,
+          "pb_pct": 0.58,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 19.44,
+          "pb": 2.97,
+          "pe_pct": 40.88,
+          "pb_pct": 0.97,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 83.7,
+        "pe_trend_before": 15.8,
+        "pb_trend_now": 2.3,
+        "pb_trend_before": 0.3,
+        "pe_arrow": "↑",
+        "pb_arrow": "→"
+      }
+    },
+    "002100": {
+      "name": "天康生物",
+      "sector": "农牧",
+      "windows": {
+        "all": {
+          "pe": -101.86,
+          "pb": 1.5,
+          "pe_pct": 2.27,
+          "pb_pct": 36.26,
+          "days": 2024
+        },
+        "10y": {
+          "pe": -101.86,
+          "pb": 1.5,
+          "pe_pct": 2.27,
+          "pb_pct": 36.26,
+          "days": 2024
+        },
+        "5y": {
+          "pe": -101.86,
+          "pb": 1.5,
+          "pe_pct": 3.8,
+          "pb_pct": 55.16,
+          "days": 1211
+        },
+        "3y": {
+          "pe": -101.86,
+          "pb": 1.5,
+          "pe_pct": 6.35,
+          "pb_pct": 75.14,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 14.0,
+        "pe_trend_before": 2.0,
+        "pb_trend_now": 30.2,
+        "pb_trend_before": 47.1,
+        "pe_arrow": "↑",
+        "pb_arrow": "↓"
+      }
+    },
+    "600737": {
+      "name": "中粮糖业",
+      "sector": "农牧",
+      "windows": {
+        "all": {
+          "pe": 32.31,
+          "pb": 2.75,
+          "pe_pct": 71.0,
+          "pb_pct": 92.19,
+          "days": 2024
+        },
+        "10y": {
+          "pe": 32.31,
+          "pb": 2.75,
+          "pe_pct": 71.0,
+          "pb_pct": 92.19,
+          "days": 2024
+        },
+        "5y": {
+          "pe": 32.31,
+          "pb": 2.75,
+          "pe_pct": 79.85,
+          "pb_pct": 87.86,
+          "days": 1211
+        },
+        "3y": {
+          "pe": 32.31,
+          "pb": 2.75,
+          "pe_pct": 99.31,
+          "pb_pct": 79.7,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 88.4,
+        "pe_trend_before": 72.5,
+        "pb_trend_now": 60.5,
+        "pb_trend_before": 92.5,
+        "pe_arrow": "↑",
+        "pb_arrow": "↓"
+      }
+    },
+    "000876": {
+      "name": "新希望",
+      "sector": "农牧",
+      "windows": {
+        "all": {
+          "pe": -12.41,
+          "pb": 2.06,
+          "pe_pct": 14.13,
+          "pb_pct": 40.02,
+          "days": 2024
+        },
+        "10y": {
+          "pe": -12.41,
+          "pb": 2.06,
+          "pe_pct": 14.13,
+          "pb_pct": 40.02,
+          "days": 2024
+        },
+        "5y": {
+          "pe": -12.41,
+          "pb": 2.06,
+          "pe_pct": 23.62,
+          "pb_pct": 43.35,
+          "days": 1211
+        },
+        "3y": {
+          "pe": -12.41,
+          "pb": 2.06,
+          "pe_pct": 33.29,
+          "pb_pct": 58.56,
+          "days": 724
+        }
+      },
+      "trend": {
+        "pe_trend_now": 16.3,
+        "pe_trend_before": 14.1,
+        "pb_trend_now": 65.1,
+        "pb_trend_before": 41.9,
+        "pe_arrow": "→",
+        "pb_arrow": "↑"
+      }
+    }
+  },
+  "sector_summary": {
+    "石油石化": {
+      "count": 5,
+      "pe_pct_median": 77.8,
+      "pe_pct_mean": 75.5,
+      "pb_pct_median": 69.2,
+      "pb_pct_mean": 65.4,
+      "pe_trend": "↓",
+      "pb_trend": "↓"
+    },
+    "煤炭": {
+      "count": 6,
+      "pe_pct_median": 98.3,
+      "pe_pct_mean": 91.1,
+      "pb_pct_median": 81.3,
+      "pb_pct_mean": 67.0,
+      "pe_trend": "↓",
+      "pb_trend": "↓"
+    },
+    "有色金属": {
+      "count": 8,
+      "pe_pct_median": 45.0,
+      "pe_pct_mean": 45.7,
+      "pb_pct_median": 87.1,
+      "pb_pct_mean": 77.6,
+      "pe_trend": "↓",
+      "pb_trend": "↓"
+    },
+    "钢铁": {
+      "count": 5,
+      "pe_pct_median": 66.3,
+      "pe_pct_mean": 60.4,
+      "pb_pct_median": 19.7,
+      "pb_pct_mean": 28.2,
+      "pe_trend": "↓",
+      "pb_trend": "→"
+    },
+    "化工": {
+      "count": 6,
+      "pe_pct_median": 70.8,
+      "pe_pct_mean": 66.3,
+      "pb_pct_median": 69.6,
+      "pb_pct_mean": 54.8,
+      "pe_trend": "↓",
+      "pb_trend": "↓"
+    },
+    "建材": {
+      "count": 5,
+      "pe_pct_median": 90.7,
+      "pe_pct_mean": 88.1,
+      "pb_pct_median": 28.2,
+      "pb_pct_mean": 34.3,
+      "pe_trend": "↓",
+      "pb_trend": "↑"
+    },
+    "工程机械": {
+      "count": 5,
+      "pe_pct_median": 53.6,
+      "pe_pct_mean": 53.8,
+      "pb_pct_median": 59.7,
+      "pb_pct_mean": 53.1,
+      "pe_trend": "↑",
+      "pb_trend": "↑"
+    },
+    "航运港口": {
+      "count": 5,
+      "pe_pct_median": 59.7,
+      "pe_pct_mean": 50.7,
+      "pb_pct_median": 90.3,
+      "pb_pct_mean": 65.1,
+      "pe_trend": "→",
+      "pb_trend": "↓"
+    },
+    "金融": {
+      "count": 5,
+      "pe_pct_median": 20.1,
+      "pe_pct_mean": 27.7,
+      "pb_pct_median": 35.7,
+      "pb_pct_mean": 28.4,
+      "pe_trend": "↑",
+      "pb_trend": "↑"
+    },
+    "农牧": {
+      "count": 5,
+      "pe_pct_median": 14.6,
+      "pe_pct_mean": 35.3,
+      "pb_pct_median": 36.3,
+      "pb_pct_mean": 34.4,
+      "pe_trend": "↑",
+      "pb_trend": "→"
+    }
+  }
+}

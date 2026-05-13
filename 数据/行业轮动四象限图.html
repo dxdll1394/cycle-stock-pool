@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>大周期股池行业轮动四象限图</title>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: #f5f5f5; font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; }
+  .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+  h1 { font-size: 22px; color: #1a1a2e; margin-bottom: 6px; }
+  .meta { color: #888; font-size: 13px; margin-bottom: 14px; }
+  #chart { width: 100%; height: 800px; background: #fff; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+  .legend { display: flex; flex-wrap: wrap; gap: 6px; margin: 16px 0; font-size: 12px; }
+  .legend-item { display: flex; align-items: center; gap: 4px; padding: 4px 10px; border-radius: 4px; background: #fff; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  .footer { text-align: center; color: #aaa; font-size: 11px; margin-top: 16px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>📊 大周期股池 · 行业轮动四象限图</h1>
+  <div class="meta">2026-05-12 | 中位PE% × 中位PB% | 气泡大小 = 成分股数 | 窗口: 上市以来</div>
+  <div id="chart"></div>
+  <div class="legend">
+    <span class="legend-item"><span class="legend-dot" style="background:#E3F2FD;"></span>复苏/价值区 PE↓PB↓</span>
+    <span class="legend-item"><span class="legend-dot" style="background:#E8F5E9;"></span>扩张/成长区 PE↓PB↑</span>
+    <span class="legend-item"><span class="legend-dot" style="background:#FFF3E0;"></span>过热区 PE↑PB↑</span>
+    <span class="legend-item"><span class="legend-dot" style="background:#FFEBEE;"></span>滞胀区 PE↑PB↓</span>
+  </div>
+  <div class="footer">数据源: 东方财富(akshare) | 气泡大小为各行业成分股数</div>
+</div>
+<script>
+const chart = echarts.init(document.getElementById('chart'));
+const option = {
+  tooltip: {
+    formatter: function(params) {
+      if (!params.value) return '';
+      const [pe, pb, count, color] = params.value;
+      const quad = pe >= 50 ? (pb >= 50 ? '🔥过热区' : '🔴滞胀区') : (pb >= 50 ? '🟢扩张区' : '🔵复苏区');
+      return `<strong>${params.name}</strong><br/>
+              PE中位百分位: ${pe}%<br/>
+              PB中位百分位: ${pb}%<br/>
+              成分股: ${count} 只<br/>
+              象限: ${quad}`;
+    }
+  },
+  xAxis: {
+    name: 'PE百分位 (估值)',
+    nameLocation: 'center',
+    nameGap: 40,
+    min: -5, max: 105,
+    splitLine: { show: true, lineStyle: { type: 'dashed', color: '#ccc' } },
+    axisLine: { show: true },
+  },
+  yAxis: {
+    name: 'PB百分位 (资产溢价)',
+    nameLocation: 'center',
+    nameGap: 45,
+    min: -5, max: 105,
+    splitLine: { show: true, lineStyle: { type: 'dashed', color: '#ccc' } },
+    axisLine: { show: true },
+  },
+  series: [{
+    type: 'scatter',
+    data: [{"name": "石油石化", "value": [68.1, 55.5, 10, "#4A90D9"], "symbolSize": 45}, {"name": "煤炭", "value": [98.5, 74.1, 10, "#333333"], "symbolSize": 45}, {"name": "有色金属", "value": [63.3, 87.1, 10, "#D4A017"], "symbolSize": 45}, {"name": "钢铁", "value": [61.3, 39.5, 10, "#8B4513"], "symbolSize": 45}, {"name": "化工", "value": [70.8, 65.1, 10, "#6B8E23"], "symbolSize": 45}, {"name": "建材", "value": [77.1, 17.1, 10, "#CD853F"], "symbolSize": 45}, {"name": "工程机械", "value": [46.9, 66.3, 10, "#4682B4"], "symbolSize": 45}, {"name": "航运港口", "value": [50.1, 59.9, 10, "#2E8B57"], "symbolSize": 45}, {"name": "金融", "value": [20.2, 36.6, 10, "#8B0000"], "symbolSize": 45}, {"name": "农牧", "value": [48.2, 25.6, 10, "#228B22"], "symbolSize": 45}],
+    itemStyle: {
+      opacity: 0.8,
+      borderColor: '#fff',
+      borderWidth: 2,
+    },
+    label: {
+      show: true,
+      formatter: function(p) { return p.name; },
+      fontSize: 12,
+      fontWeight: 'bold',
+      position: 'right',
+    },
+    emphasis: {
+      itemStyle: { opacity: 1, borderColor: '#333', borderWidth: 3 },
+      label: { fontSize: 14 },
+    },
+    markArea: {
+      silent: true,
+      data: [
+        [{ xAxis: 50, yAxis: 50 }, { xAxis: 105, yAxis: 105, itemStyle: { color: '#FFF3E0', opacity: 0.2 } }],
+        [{ xAxis: -5, yAxis: 50 }, { xAxis: 50, yAxis: 105, itemStyle: { color: '#E8F5E9', opacity: 0.2 } }],
+        [{ xAxis: 50, yAxis: -5 }, { xAxis: 105, yAxis: 50, itemStyle: { color: '#FFEBEE', opacity: 0.2 } }],
+        [{ xAxis: -5, yAxis: -5 }, { xAxis: 50, yAxis: 50, itemStyle: { color: '#E3F2FD', opacity: 0.2 } }],
+      ]
+    },
+  }],
+  grid: { top: 60, bottom: 60, left: 70, right: 50 },
+};
+
+chart.setOption(option);
+window.addEventListener('resize', () => chart.resize());
+</script>
+</body>
+</html>
